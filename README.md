@@ -1,8 +1,9 @@
 Olá! Seja bem Vindo(a) ao meu Github! 
 
-Atualmente estou trabalhando e estudando desenvolvimento de software back-end.
+Atualmente estou trabalhando e estudando desenvolvimento de software Mobile.
 Tenho conhecimento nas tecnolgias:
-- java
+- Java
+- Android
 - Spring Boot
 - Html
 - Css
