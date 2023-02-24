@@ -2,6 +2,8 @@ Olá! Seja bem Vindo(a) ao meu Github!
 
 Atualmente estou trabalhando e estudando desenvolvimento de software Mobile.
 Tenho conhecimento nas tecnolgias:
+
+- Kotlin
 - Java
 - Android
 - Spring Boot
