@@ -4,12 +4,9 @@ Atualmente estou trabalhando e estudando desenvolvimento de software Mobile.
 Tenho conhecimento nas tecnolgias:
 
 - Kotlin
-- Java
 - Android
+- Java
 - Spring Boot
-- Html
-- Css
-- Javascript
 
 Contato whatsapp +55 21 982425617
 
