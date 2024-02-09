@@ -7,15 +7,3 @@ Olá! Seja bem Vindo(a) ao meu Github!👋
 ![Tiago Nascimento Hilario GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiago-Nascimento-Hilario&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-nascimento-hilario)](https://github.com/tiago-nascimento-hilario/github-readme-stats)
-
-Tecnologias que eu uso no meu dia!
-<div style="display:inline_block"></br>
-  <img  algin="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img  algin="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img  algin="center" alt="JAVA SCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img  algin="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-<img  algin="center" alt="REACT-NATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB " />
-
-<img  algin="center" alt="C#" src="https://img.shields.io/badge/C#-43853D?style=for-the-badge&logo=c#&logoColor=white " />
-</div>
