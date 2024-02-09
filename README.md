@@ -17,5 +17,5 @@ Tecnologias que eu uso no meu dia!
 
 <img  algin="center" alt="REACT-NATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB " />
 
-<img  algin="center" alt="NODE JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white " />
+<img  algin="center" alt="C#" src="https://img.shields.io/badge/C#-43853D?style=for-the-badge&logo=c#&logoColor=white " />
 </div>
