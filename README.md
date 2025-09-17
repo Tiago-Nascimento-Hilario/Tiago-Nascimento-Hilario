@@ -5,4 +5,4 @@ Olá! Seja bem Vindo(a) ao meu Github!👋
 [![whatsapp]( https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521982425617)
 
 ![Tiago Nascimento Hilario GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiago-Nascimento-Hilario&show_icons=true&theme=dracula)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-nascimento-hilario)](https://github.com/tiago-nascimento-hilario/github-readme-stats)
